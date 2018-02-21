@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.idea/
+tagRecommendation/datasource/db_data/
+
