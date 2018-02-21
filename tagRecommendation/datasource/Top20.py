@@ -3,6 +3,5 @@ from tagRecommendation.datasource import SetupDataStore
 # import nltk
 # nltk.download()
 
-# Set-up data set in mongodb
-
-SetupDataStore.SetupDataStore(20)
+# Set-up dataset in MongoDB
+SetupDataStore.SetupDataStore(20, 90)

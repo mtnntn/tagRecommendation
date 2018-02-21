@@ -4,11 +4,13 @@ from pymongo import MongoClient
 from nltk.tokenize import sent_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
+from numpy import random
+from math import floor
 
 
 class SetupDataStore:
 
-    def __init__(self, max_tag_to_analyze=20):
+    def __init__(self, max_tag_to_analyze=20, train_set_perc_size=90):
         self.client = MongoClient("mongodb://localhost:27017")
         self.raw_db = self.client["raw_data"]
         self.articles_coll = self.raw_db["articles"]
@@ -16,12 +18,15 @@ class SetupDataStore:
         self.data_set_db = self.client["data_set"]
         self.tags_coll_ds = self.data_set_db["tags"]
         self.articles_coll_ds = self.data_set_db["articles"]
+        self.articles_coll_train = self.data_set_db["articles_train"]
+        self.articles_coll_test = self.data_set_db["articles_test"]
 
-        #self.__import_articles()
-        #self.__import_tags()
-        #self.__bidirectional_reference()
+        self.__import_articles()
+        self.__import_tags()
+        self.__bidirectional_reference()
         self.__initialize_data_set(max_tag_to_analyze)
         self.__tokenize_stopwords_stem_titles()
+        self.__split_test_train_set(train_set_perc_size)
 
     def __import_articles(self):
         print("Importing articles . . .")
@@ -101,7 +106,7 @@ class SetupDataStore:
 
             # REMOVE STOP WORDS AND STEMMING
             stop_words = set(stopwords.words('english'))
-            words_filtered = []
+            # words_filtered = []
             stems = []
             ps = PorterStemmer()
 
@@ -109,7 +114,7 @@ class SetupDataStore:
             words_in_sentence = title_tokenized.split(" ")
             for w in words_in_sentence:
                 if w not in stop_words:
-                    words_filtered.append(w)
+                    # words_filtered.append(w)
                     stems.append(ps.stem(w))  # STEMMING
 
             # title_no_stop = " ".join([str(w) for w in words_filtered])
@@ -119,3 +124,30 @@ class SetupDataStore:
             self.articles_coll_ds.replace_one({"_id": doc["_id"]}, doc)
 
         print("---> done.")
+
+    def __split_test_train_set(self, train_set_perc_size):
+        tsps_str = str(train_set_perc_size)
+        print("Extracting train-set and test-set with ratio "+tsps_str+":"+str(100-train_set_perc_size))
+
+        if train_set_perc_size > 100 or train_set_perc_size <= 0:
+            error = 'Invalid ratio between train-set and test-set: ' + \
+                    'training set percentage size is not in the range [1-99], found ' +\
+                    train_set_perc_size
+            raise Exception(error)
+
+        articles = list(self.articles_coll_ds.find())  # get all articles
+        total_articles = len(articles)
+
+        train_set_size = int(floor((total_articles * train_set_perc_size)/100))
+        test_set_size = total_articles - train_set_size
+
+        random.shuffle(articles)
+        test_set = articles[0:test_set_size]
+        train_set = articles[test_set_size:total_articles]
+
+        self.articles_coll_test.insert_many(test_set)
+        self.articles_coll_train.insert_many(train_set)
+
+        print("-------> Total Documents: " + str(total_articles) + "\n" +
+              "------- - Added " + str(self.articles_coll_train.count()) + " documents to Training-Set \n" +
+              "------- - Added " + str(self.articles_coll_test.count()) + " documents to Test-Set \n")
