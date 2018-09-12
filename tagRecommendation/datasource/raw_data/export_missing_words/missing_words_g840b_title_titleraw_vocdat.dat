@@ -1,0 +1,2645 @@
+'word-id', 'word', missing frequency in 'title_tokenized', missing frequency in 'title-raw_tokenized'
+123, mirnas, 70
+419, rnas, 46, 1
+508, proteinprotein, 840
+592, highthroughput, 520
+742, micrornas, 63, 9
+1205, cisregulatory, 340
+1264, mrnas, 80
+1401, peertopeer, 160
+1464, proteincoding, 110
+1500, wholegenome, 320
+1691, cnvs, 30
+1797, utrs, 20
+1882, chipseq, 230
+1939, caenorhabditis, 19, 1
+1956, tissuespecific, 110
+2027, sirnas, 40
+2049, contextaware, 30
+2050, genomescale, 240
+2106, rnaseq, 260
+2268, kegg, 9, 3
+2273, hkme, 10
+2332, chipchip, 90
+2338, ncrnas00
+2503, conservacion00
+2667, gwas, 3, 1
+2715, higherorder, 20
+2763, agentbased, 110
+2854, proteindna, 100
+2865, contentbased, 40
+2870, highdimensional, 70
+2927, proteinligand, 60
+2972, bottomup, 30
+3064, humancomputer, 90
+3119, domainspecific, 10
+3164, singlemolecule, 160
+3187, modelbased, 80
+3329, bioconductor, 10, 5
+3359, hapmap, 2, 1
+3414, selforganizing, 10
+3446, dnabinding, 20
+3506, crossvalidation, 50
+3651, argonaute00
+3699, lowfrequency, 30
+3765, ncrna00
+3805, cscw, 20
+3866, eventrelated, 50
+3881, shortread, 14, 1
+3882, textmining, 80
+3888, mirnatarget, 10
+3916, individualbased, 40
+3925, graphbased, 90
+3927, knowledgebased, 70
+3974, orfs, 10
+3979, structurebased, 70
+3993, coarsegrained, 50
+4008, svms00
+4027, copynumber, 110
+4036, ctcf, 3, 1
+4060, crms00
+4110, pvalues, 10
+4126, falsepositive00
+4153, semisupervised, 40
+4157, allatom, 30
+4217, gsea00
+4219, wileyliss00
+4251, pfam, 2, 1
+4341, rulebased, 20
+4363, twohybrid, 50
+4366, kcalmol00
+4399, cmyc, 10
+4413, sbml, 50
+4431, pairedend, 60
+4436, psycinfo00
+4458, eqtls00
+4470, eqtl, 40
+4612, umls00
+4627, tfbss00
+4653, drosha, 10
+4690, crossspecies, 20
+4718, restingstate, 40
+4732, sequencebased00
+4749, selfefficacy00
+4751, ontologybased, 90
+4775, faulttolerant, 20
+4793, partofspeech00
+4816, networkbased, 100
+4867, dnds, 20
+4951, biodiversidad00
+4987, singlecell, 30
+4991, cytoscape, 7, 2
+5062, pirnas, 10
+5072, higherlevel00
+5121, selforganized, 60
+5126, rtpcr, 50
+5128, timevarying, 20
+5165, mirnamediated, 10
+5253, widearea, 20
+5262, stdp, 20
+5274, doublestranded, 10
+5296, speciesspecific, 20
+5342, biocreative, 10
+5388, qpcr00
+5393, goaldirected, 20
+5466, pthis00
+5476, wellstudied00
+5478, charmm, 1, 1
+5613, singlephoton, 10
+5646, lossoffunction00
+5648, hebbian, 3, 2
+5704, cellcycle, 30
+5738, freeenergy, 40
+5740, cisacting, 10
+5765, selfassembly, 20
+5783, swissprot00
+5824, escience, 20
+5858, contextfree, 20
+5871, datadriven, 30
+5884, kmer, 20
+5919, geneprotein, 30
+5977, humanspecific, 40
+5990, genechip, 10
+5994, interpro, 3, 1
+6032, adaboost00
+6060, signaltonoise00
+6076, regionbased00
+6082, highconfidence, 10
+6087, statespace, 20
+6104, solexa, 40
+6113, lineagespecific00
+6175, kolmogorov, 20
+6209, allelespecific, 30
+6218, reactome, 4, 4
+6244, basepairing00
+6257, twocomponent, 20
+6294, npcomplete, 10
+6334, metaanalyses, 30
+6335, polya00
+6357, usercentered, 10
+6375, timedependent, 10
+6415, inparanoid, 2, 2
+6419, prosite, 20
+6421, strandspecific, 40
+6495, boseeinstein, 40
+6498, selfsimilar00
+6513, agerelated, 20
+6532, locationbased, 10
+6561, systemslevel, 10
+6563, connotea00
+6628, celltocell, 30
+6685, finitestate, 20
+6775, microarraybased, 20
+6798, refseq00
+6808, keywordbased00
+6839, lowdimensional00
+6873, wellsuited00
+6889, internetbased, 10
+6891, offtheshelf00
+6914, tfidf, 10
+6915, bindingsite00
+6918, crfs00
+6923, transfac, 1, 1
+6934, twostage00
+6958, nearestneighbor00
+6962, singlestranded, 10
+6966, druglike, 10
+6968, fmeasure00
+7002, stemloop, 10
+7012, secondorder, 10
+7042, contextspecific, 30
+7070, domaindomain, 10
+7105, constraintbased, 20
+7108, errorcorrecting, 10
+7112, locationaware00
+7155, errorprone00
+7167, cocitation, 10
+7168, generegulatory, 30
+7193, diseaserelated00
+7197, machinereadable00
+7219, literaturebased, 20
+7222, selfsimilarity, 20
+7231, nonmodel, 2, 1
+7260, systemlevel00
+7293, sitespecific, 30
+7299, eventbased, 20
+7300, imagebased, 20
+7355, aspectoriented, 10
+7364, populationbased, 20
+7370, taskrelated00
+7391, userspecified00
+7398, backgroundthe00
+7470, wholecell, 30
+7477, falsenegative00
+7497, meanfield, 10
+7584, inew00
+7596, casecontrol, 10
+7609, omim, 10
+7623, tolllike, 30
+7625, cellcell00
+7644, leastsquares00
+7687, kernelbased, 20
+7696, basecalling, 30
+7701, psiblast00
+7755, nucleosomefree00
+7759, premrna, 10
+7874, nargkn00
+7883, genespecific00
+7903, genegene00
+7930, nongaussian00
+7998, rewardrelated, 10
+8019, hypothesisdriven, 10
+8031, deoxyribozymebased, 10
+8032, deoxyribozyme-based0, 1
+8040, biologys, 20
+8050, blastphemy, 10
+8052, BLASTphemy0, 1
+8059, epsps, 10
+8084, visualsaccadic, 10
+8085, visual-saccadic0, 1
+8088, textis, 10
+8089, TextâIs0, 1
+8123, evaluationof, 1, 1
+8143, orfeome, 20
+8144, proteomescale, 20
+8147, proteome-scale0, 2
+8159, micrornatarget, 30
+8160, MicroRNAâTarget0, 1
+8165, modalityspecific, 10
+8191, GENOMES0, 1
+8217, selfperpetuating, 10
+8218, doublenegative, 20
+8258, spinglass, 10
+8260, spin-glass0, 1
+8261, modecoupling, 10
+8262, mode-coupling0, 1
+8290, timingdependent, 40
+8293, timing-dependent0, 2
+8294, braincomputer, 10
+8299, brocas, 10
+8349, dataa, 10
+8350, dataâa0, 1
+8353, fixational, 1, 1
+8366, ribognome, 10
+8367, ribo-gnome0, 1
+8398, quantumenhanced, 10
+8400, quantum-enhanced0, 1
+8453, dorsalventral, 10
+8465, Neutralism0, 1
+8475, spectrometrybased, 50
+8478, domainspecificity, 10
+8480, domain-specificity0, 1
+8492, voxelbased, 10
+8493, morphometrythe, 10
+8513, premessenger, 10
+8515, PRE-MESSENGER0, 1
+8522, positionbased, 10
+8527, matricesthe, 10
+8530, basicanalysis, 10
+8531, Basic/Analysis0, 1
+8544, nirs, 10
+8564, mirrorneuron, 10
+8565, Mirror-Neuron0, 1
+8567, kinaselike, 10
+8568, KinaseâLike0, 1
+8570, proteinsmall, 20
+8571, protein-small0, 2
+8580, gtpases, 10
+8582, reactionrate, 10
+8584, reaction-rate0, 1
+8592, actornetwork, 30
+8607, thetagamma, 10
+8610, theta/gamma0, 1
+8616, messagepassing, 10
+8629, errorrelated, 10
+8632, 'omics0, 1
+8633, cellsignalling, 10
+8634, cell-signalling0, 1
+8636, micro-0, 1
+8639, BioCreAtIvE0, 1
+8659, cohesindockerin, 10
+8661, Cohesin-Dockerin0, 1
+8673, metropolishastings, 10
+8676, metaproteomics, 1, 1
+8678, mfold, 2, 1
+8679, Mfold0, 1
+8694, visionbased, 20
+8699, resourcebased, 20
+8702, hostbacterial, 10
+8705, host-bacterial0, 1
+8722, proteinâprotein0, 9
+8730, âfold0, 1
+8731, spaceâ0, 1
+8732, multisequence, 20
+8734, multi-sequence0, 1
+8736, handoverhand, 10
+8740, Hand-Over-Hand0, 1
+8742, 1.5-nm0, 1
+8767, peerreviewers, 10
+8769, Peer-Reviewers0, 1
+8782, aracne, 1, 1
+8789, Cell-to-Cell0, 1
+8806, pasbios, 10
+8807, PASBio0, 1
+8812, bonferroni, 10
+8814, Timing-Dependent0, 2
+8817, levinthal, 10
+8822, statisticalthermodynamic, 10
+8823, statistical-thermodynamic0, 1
+8830, integrateandfire, 20
+8831, Integrate-and-fire0, 1
+8842, structurefunction, 10
+8849, 'cognitive0, 1
+8855, hubmed, 1, 1
+8859, druggability, 2, 2
+8860, hostmicrobe, 10
+8864, memorya, 10
+8869, stimulusdriven, 10
+8875, ht060, 1
+8898, multivoxel, 10
+8900, multi-voxel0, 1
+8908, subdiffractionlimit, 10
+8910, sub-diffraction-limit0, 1
+8916, foldinga, 10
+8929, fewelectron, 10
+8930, few-electron0, 1
+8931, signaltransduction, 20
+8941, backbonebased, 10
+8942, backbone-based0, 1
+8948, waveletbased, 30
+8949, fourier-0, 1
+8950, Hilbert-0, 1
+8952, shortlatency, 10
+8953, short-latency0, 1
+8964, Photoactivation0, 1
+8968, Signal-Transduction0, 1
+8975, cancergene, 10
+8976, cancer-gene0, 1
+8977, supermatrix, 2, 2
+8983, Individual-Based0, 1
+9005, âgenome0, 1
+9006, complexityâ0, 1
+9007, eegmeg, 10
+9017, humanchimpanzee, 10
+9042, singleneuron, 20
+9043, single-neuron0, 1
+9062, fragmentbased, 10
+9078, methylomes, 2, 2
+9079, histonemodification, 10
+9080, histone-modification0, 1
+9093, atomiclevel, 40
+9095, familywise, 1, 1
+9103, PHYLOGENETICS0, 1
+9108, archicortex, 10
+9109, Archicortex0, 1
+9110, manybody, 20
+9119, calabiyau, 10
+9123, metaanalytic, 10
+9127, ProteinâProtein0, 4
+9156, Multi-Sequence0, 1
+9165, diffusioninfluenced, 10
+9166, diffusion-influenced0, 1
+9175, targetp, 10
+9176, signalp, 20
+9177, TargetP0, 1
+9179, postencode, 10
+9180, post-ENCODE0, 1
+9188, interactionsite, 10
+9189, interaction-site0, 1
+9190, codata, 1, 1
+9192, crossfrequency, 10
+9193, cross-frequency0, 1
+9223, bose-einstein0, 2
+9232, mirnomicsthe, 10
+9233, mirnomicsâthe0, 1
+9235, photoswitchable, 10
+9236, photo-switchable0, 1
+9240, cortico-striatal0, 1
+9266, MICROFLUIDICS0, 1
+9302, networkanother, 10
+9303, tumoursuppression, 10
+9306, tumour-suppression0, 1
+9309, mirtron, 1, 1
+9310, piwipirna, 10
+9311, Piwi-piRNA0, 1
+9335, twophoton, 10
+9353, coiledcoil, 30
+9355, Coiled-Coil0, 1
+9362, virusinduced, 10
+9381, massspectrometrybased, 20
+9382, mass-spectrometry-based0, 2
+9383, informationbased, 30
+9388, SOCIOBIOLOGY0, 1
+9394, NEOCORTEX0, 1
+9395, noncrystallographers, 10
+9397, non-crystallographers0, 1
+9406, biologywhats, 10
+9407, biologyâwhat0, 1
+9409, miRNA-Mediated0, 1
+9434, âdigital0, 1
+9435, nativesâ0, 1
+9437, gproteincoupled, 20
+9443, geneset, 30
+9444, gene-set0, 3
+9446, anovas, 10
+9461, postgenome, 20
+9479, solventbased, 10
+9481, proteincoupled, 10
+9484, dataoriented, 10
+9487, shortrange, 10
+9496, sduality, 10
+9498, seiberg, 10
+9500, S-Duality0, 1
+9501, N=20, 1
+9510, â0, 1
+9516, rsat, 2, 1
+9539, metacommunities, 1, 1
+9540, mitogenactivated, 10
+9561, speciesmediated, 10
+9563, species-mediated0, 1
+9565, scepticisms, 1, 1
+9574, bioimage, 1, 1
+9575, evodevo, 20
+9592, Opto-Mechanics0, 1
+9593, highorder, 20
+9595, fluorescencebased, 10
+9636, coadaptation, 10
+9638, co-adaptation0, 1
+9647, piwiinteracting, 20
+9648, Piwi-interacting0, 2
+9670, Time-Scales0, 1
+9672, rna-seq0, 3
+9677, Protein-Coding0, 1
+9684, fitsnps, 1, 1
+9687, feshbach, 2, 1
+9692, genotypephenotype, 30
+9693, genotypeâphenotype0, 2
+9702, decanalization, 1, 1
+9706, statedependent, 10
+9708, rnainterference, 10
+9709, RNA-interference0, 1
+9728, phosphatome, 1, 1
+9737, studiesthe, 10
+9738, studiesâThe0, 1
+9743, Extension*0, 1
+9751, miqe, 10
+9757, ratioscommunicating, 10
+9763, chip-seq0, 4
+9764, proteinâDNA0, 1
+9771, patientderived, 10
+9773, Patient-Derived0, 1
+9783, findsite, 1, 1
+9784, evolutionstructurebased, 10
+9785, evolution/structure-based0, 1
+9808, longtimescale, 10
+9809, long-timescale0, 1
+9811, trailinduced, 10
+9824, dualprocessing, 10
+9825, dual-processing0, 1
+9841, cancernew, 10
+9843, cancerânew0, 1
+9853, membraneprotein, 10
+9854, membrane-protein0, 1
+9874, currentgeneration, 10
+9891, ontologys, 10
+9943, earlywarning, 10
+9945, laserdriven, 10
+9946, plasmabased, 10
+9955, distantacting, 10
+9956, distant-acting0, 1
+9974, secondgeneration, 40
+9977, lamarckian, 20
+9982, overoptimism, 10
+9984, pathwaygenome, 20
+9986, pathway/genome0, 2
+9991, solexaillumina, 10
+9994, Solexa/Illumina0, 1
+9995, phylogenydriven, 10
+9997, phylogeny-driven0, 1
+10002, membraneorganizing, 10
+10004, Membrane-Organizing0, 1
+10007, crisprcas, 10
+10008, crispr/cas0, 1
+10009, selfrenewal, 10
+10012, mrnaseq, 30
+10014, mRNA-Seq0, 1
+10017, targetenrichment, 10
+10018, target-enrichment0, 1
+10020, crispr, 2, 2
+10021, rnadirected, 10
+10023, signallingnetwork, 10
+10024, signalling-network0, 1
+10048, biologydriven, 10
+10049, biology-driven0, 1
+10054, highthroughputsequencing, 10
+10055, high-throughput-sequencing0, 1
+10070, peerreview, 10
+10074, biopax, 20
+10078, reactiondiffusion, 20
+10091, eulerian, 10
+10096, rfam, 2, 2
+10099, ipfam, 1, 1
+10101, metagenes, 1, 1
+10102, raxmliii, 10
+10103, likelihoodbased, 20
+10104, raxml-iii0, 1
+10109, clustal, 3, 2
+10111, positionspecific, 20
+10117, trnascanse, 10
+10118, trnascan-se0, 1
+10125, enzymespecific, 10
+10127, enzyme-specific0, 1
+10129, contentrich, 10
+10143, chemogenomic, 1, 1
+10144, reverseengineered, 10
+10148, memoryefficient, 20
+10152, pfold, 1, 1
+10154, snornas, 10
+10157, energybased, 20
+10158, Pseudoknot0, 1
+10166, templatebased, 10
+10169, CASP50, 1
+10170, constraintsbased, 10
+10171, constraints-based0, 1
+10173, interologs, 1, 1
+10174, regulogs, 1, 1
+10177, coclustering, 4, 1
+10178, co-clustering0, 3
+10182, biorat, 1, 1
+10191, ENCyclopedia0, 1
+10194, base-calling0, 3
+10206, tmalign, 10
+10207, tmscore, 10
+10208, tm-align0, 1
+10209, TM-score0, 1
+10213, gostat, 1, 1
+10218, inparalogs, 2, 1
+10219, in-paralogs0, 1
+10225, mrbayes, 1, 1
+10227, Cis-regulatory0, 2
+10228, cerevisiae10, 1
+10237, hybrow, 1, 1
+10241, proteinsignaling, 10
+10243, Protein-Signaling0, 1
+10256, bhlh, 10
+10259, sequencestructure, 30
+10261, yeasthub, 1, 1
+10262, fragnostic, 1, 1
+10263, biomart, 2, 1
+10266, prolinks, 1, 1
+10272, 'omic0, 1
+10273, naturallike, 10
+10275, natural-like0, 1
+10277, goldstandard, 10
+10280, swissmodel, 10
+10281, homologymodeling, 10
+10282, swiss-model0, 1
+10283, homology-modeling0, 1
+10289, nucleotidebinding, 10
+10296, modbase, 1, 1
+10297, maxsub, 1, 1
+10300, foldrecognition, 10
+10301, fold-recognition0, 1
+10303, stressinduced, 20
+10305, biosequence, 1, 1
+10306, tmprss, 10
+10310, genewise, 1, 1
+10311, genomewise, 10
+10312, Genomewise0, 1
+10313, jalview, 10
+10316, microRNA/target0, 1
+10323, biocyc, 10
+10326, weblogo, 1, 1
+10339, maximumlikelihood, 20
+10345, rnasoft, 1, 1
+10351, scoppi, 1, 1
+10352, gopubmed, 1, 1
+10355, biomodels, 2, 2
+10357, drugbank, 2, 2
+10361, biogrid, 2, 1
+10362, kalign, 1, 1
+10363, bioregulatory, 10
+10365, Bioregulatory0, 1
+10369, phenomegenome, 10
+10370, phenome-genome0, 1
+10374, nematodearthropod, 10
+10375, nematode-arthropod0, 1
+10376, transcriptionfactor, 20
+10377, Transcription-Factor0, 1
+10379, 'protein0, 1
+10385, hotknots, 1, 1
+10390, cmfindera, 10
+10391, cmfinder0, 1
+10398, smallsample, 10
+10401, genomediagram, 1, 1
+10404, scowlp, 1, 1
+10407, phyme, 1, 1
+10408, genetag, 1, 1
+10413, retroposon, 1, 1
+10415, genmapp, 3, 2
+10416, fanmod, 1, 1
+10423, repbase, 1, 1
+10425, scpdb, 10
+10426, sc-pdb0, 1
+10427, â0, 3
+10429, Druggable0, 1
+10435, massspectrometry, 10
+10444, biomoby, 1, 1
+10445, insightbased, 10
+10446, insight-based0, 1
+10447, fatigo, 1, 1
+10448, cdhit, 10
+10449, cd-hit0, 1
+10451, coestimation, 2, 1
+10452, pdbpqr, 10
+10453, poissonboltzmann, 10
+10454, pdb2pqr0, 1
+10456, funcat, 10
+10457, FunCat0, 1
+10469, bellerophon, 1, 1
+10474, contrafold, 1, 1
+10475, physicsbased, 20
+10480, miRNA-target0, 1
+10481, biopipe, 1, 1
+10482, protocolbased, 10
+10484, Protocol-Based0, 1
+10494, textmined, 10
+10496, Text-Mined0, 1
+10498, bionj, 1, 1
+10500, patternbased, 10
+10505, Heteroduplexes0, 1
+10510, maqc, 30
+10511, intraplatform, 1, 1
+10514, inter-0, 1
+10516, proteinbinding, 20
+10519, raxmlvihpc, 10
+10520, raxml-vi-hpc0, 1
+10521, babels, 10
+10523, crossreferencing, 20
+10529, gendban, 10
+10531, gendb0, 1
+10539, mafft, 1, 1
+10540, inferelator, 10
+10541, systemsbiology, 10
+10542, Inferelator0, 1
+10543, systems-biology0, 1
+10548, genecodis, 1, 1
+10549, snpchip, 1, 1
+10551, idconverter, 1, 1
+10552, idclight, 10
+10553, IDClight0, 1
+10557, LCM-4540, 1
+10560, naturallanguage, 10
+10562, l2l0, 1
+10566, chemo-0, 2
+10572, chargebased, 10
+10576, bioinfer, 1, 1
+10577, unifrac, 1, 1
+10578, bioontology, 10
+10580, bio-ontology0, 1
+10582, bioclipse, 2, 2
+10583, tilingarrays, 10
+10585, tiling-arrays0, 1
+10595, ssake, 10
+10596, SSAKE0, 1
+10602, ensmart, 1, 1
+10608, quantisnp, 1, 1
+10609, hiddenmarkov, 10
+10611, Hidden-Markov0, 1
+10612, biskita, 10
+10617, branchclust, 1, 1
+10622, Genome-Scale0, 4
+10627, gominer, 1, 1
+10633, nonnegativityconstrained, 10
+10635, non-negativity-constrained0, 1
+10637, monodelphis, 10
+10641, pseudopipe, 1, 1
+10653, imputationbased, 20
+10654, imputation-based0, 1
+10655, toolanalysis, 10
+10659, biotext, 1, 1
+10661, linkhub, 1, 1
+10662, crossdatabase, 10
+10666, Methylations0, 1
+10667, genomix, 1, 1
+10668, genefinders, 20
+10669, gene-finders0, 2
+10672, sequencingbased, 20
+10674, array-0, 1
+10686, rbioconductor, 50
+10688, R/Bioconductor0, 4
+10691, paml, 1, 1
+10694, lineagecommitted, 10
+10695, lineage-committed0, 1
+10697, oncomine, 2, 2
+10700, eumetazoan, 10
+10704, Eumetazoan0, 1
+10706, biowep, 1, 1
+10709, geoquery, 1, 1
+10715, cacore, 1, 1
+10718, yjm, 10
+10719, YJM7890, 1
+10721, mega40, 1
+10729, gseap, 10
+10730, gsea-p0, 1
+10731, mimix, 10
+10732, MIMIx0, 1
+10733, darwikinian, 10
+10736, Darwikinian0, 1
+10742, microarrayderived, 10
+10743, Microarray-Derived0, 1
+10746, affyprobeminer, 1, 1
+10748, pycogent, 1, 1
+10749, rnabased, 10
+10755, ssaha, 1, 1
+10756, modulecentric, 10
+10758, module-centric0, 1
+10761, bndb, 1, 1
+10766, oneclass, 10
+10767, ciselements, 20
+10768, One-class0, 1
+10772, myexperiment, 3, 2
+10773, workflowusing, 10
+10774, escientists, 10
+10775, workflow-using0, 1
+10776, e-scientists0, 1
+10777, supertarget, 1, 1
+10779, drugtarget, 10
+10785, 28-way0, 1
+10786, sharcgs, 1, 1
+10787, biospice, 10
+10789, BioSPICE0, 1
+10790, mappfinder, 1, 1
+10794, cis-Regulatory0, 4
+10800, firegoose, 10
+10801, Firegoose0, 1
+10805, dã©jã0, 1
+10807, flybase, 3, 1
+10809, rreportgenerator, 1, 1
+10810, libsbml, 2, 1
+10813, gened, 30
+10814, phylotuner, 10
+10817, Phylo-Tuner0, 1
+10823, sherloc, 1, 1
+10824, highaccuracy, 10
+10826, seqan, 1, 1
+10828, evigan, 1, 1
+10829, ltrharvest, 1, 1
+10841, bioconductorcompliant, 10
+10842, annotationtools, 10
+10844, Bioconductor-compliant0, 1
+10845, 'annotationTools0, 1
+10850, datarail, 10
+10851, DataRail0, 1
+10852, pyrobayes, 1, 1
+10854, pyrosequences, 1, 1
+10856, insilico, 20
+10858, opendmap, 1, 1
+10859, ontologydriven, 30
+10860, celltypespecific, 30
+10866, ontoperl, 10
+10867, bioontologies, 10
+10868, onto-perl0, 1
+10870, bio-ontologies0, 1
+10872, phyutility, 1, 1
+10873, phyloinformatics, 1, 1
+10883, laccaria, 10
+10888, misearch, 1, 1
+10889, pubMed0, 1
+10890, residueresidue, 10
+10891, residue-residue0, 1
+10894, allpaths, 2, 2
+10895, microreads, 1, 1
+10896, openms, 1, 1
+10902, bruijn, 10
+10904, mirdeep, 10
+10905, miRDeep0, 1
+10906, annotr, 10
+10908, annot8r0, 1
+10909, dsrnas, 20
+10914, genomeassociated, 10
+10916, genome-associated0, 1
+10919, motifbased, 10
+10920, factortarget, 10
+10922, motif-based0, 1
+10923, factor-target0, 1
+10925, blastgo, 20
+10926, Blast2GO0, 1
+10927, genomepop, 1, 1
+10928, sequencingbysynthesis, 20
+10929, sequencing-by-synthesis0, 2
+10930, spaceefficient, 20
+10939, biordf, 10
+10940, bio2rdf0, 1
+10941, greengenes, 1, 1
+10942, chimerachecked, 10
+10944, chimera-checked0, 1
+10953, sequencedictated, 10
+10954, sequence-dictated0, 1
+10955, phylogenyfr, 10
+10957, phylogeny.fr0, 1
+10959, humanmouse, 10
+10961, polysearch, 1, 1
+10962, smithwaterman, 20
+10965, dialigntx, 10
+10966, segmentbased, 20
+10967, dialign-tx0, 1
+10969, wikiproteins, 10
+10970, WikiProteins0, 1
+10972, Paired-End0, 1
+10973, interoporc, 1, 1
+10978, factorbinding, 10
+10990, eagleview, 1, 1
+10994, phylogenyaware, 10
+10995, phylogeny-aware0, 1
+10999, gmodweb, 1, 1
+11000, tdmrs, 10
+11001, tDMRs0, 1
+11003, acetylations, 1, 1
+11004, alignmentfree, 30
+11005, affinitybased, 10
+11006, alignment-free0, 3
+11008, puredmcl, 10
+11009, pured-mcl0, 1
+11010, genedisease, 10
+11011, geneinteraction, 10
+11013, gene-interaction0, 1
+11014, treebased, 10
+11024, biasreduced, 10
+11026, bias-reduced0, 1
+11028, findpeaks, 1, 1
+11030, biobayes, 1, 1
+11039, maxdbrowse, 10
+11040, differentiallyexpressed, 10
+11041, maxdBrowse0, 1
+11042, differentially-expressed0, 1
+11043, biojava, 1, 1
+11045, seqmap, 1, 1
+11047, synergizer, 10
+11048, Synergizer0, 1
+11049, pathcase, 1, 1
+11055, ProteinâDNA0, 1
+11056, drugviz, 1, 1
+11057, populationgenetic, 10
+11058, population-genetic0, 1
+11060, fseq, 10
+11061, f-seq0, 1
+11064, cbesw, 1, 1
+11068, pathvisio, 10
+11069, PathVisio0, 1
+11070, geneboosted, 10
+11071, gene-boosted0, 1
+11078, xplorseq, 1, 1
+11082, metaservices, 10
+11083, meta-services0, 1
+11084, biovenn, 1, 1
+11085, areaproportional, 10
+11087, area-proportional0, 1
+11097, metamine, 1, 1
+11102, clest, 10
+11104, Clest0, 1
+11109, K-mer0, 1
+11112, gobased, 10
+11113, GO-based0, 1
+11117, Paralogous0, 1
+11119, mirecords, 1, 1
+11120, microRNA-target0, 1
+11125, dnaplotter, 1, 1
+11126, protorp, 1, 1
+11128, ensemblcompara, 1, 1
+11129, genetrees, 10
+11130, duplicationaware, 10
+11131, GeneTrees0, 1
+11132, duplication-aware0, 1
+11135, lrpath, 1, 1
+11137, curationdata, 10
+11138, curation=data0, 1
+11139, snpfile, 1, 1
+11140, matepaired, 10
+11141, mate-paired0, 1
+11142, pastaa, 1, 1
+11143, chromatinassociated, 10
+11149, massivescale, 20
+11151, pocketmatch, 1, 1
+11153, dnaencoded, 10
+11154, DNA-encoded0, 1
+11155, genechaser, 1, 1
+11156, genetrailexpress, 1, 1
+11157, annotationsketch, 1, 1
+11159, wgcna, 1, 1
+11160, arrayqualitymetricsa, 10
+11161, arrayqualitymetrics0, 1
+11162, 5â²-End0, 1
+11167, neofunctionalization, 3, 3
+11168, genomegraphs, 1, 1
+11181, biodbnet, 1, 1
+11182, associationviewer, 1, 1
+11186, foldchange, 10
+11192, cepred, 1, 1
+11193, onthefly, 1, 1
+11194, documentbased, 10
+11202, cnvseq, 10
+11203, cnv-seq0, 1
+11207, neurocommons, 10
+11208, Neurocommons0, 1
+11215, micrornamrna, 10
+11217, microRNA-mRNA0, 1
+11220, kegggraph, 1, 1
+11222, cancerassociated, 10
+11223, regionsa, 10
+11226, jnets, 1, 1
+11228, reverseengineering, 10
+11230, coarsegraining, 30
+11232, probematch, 1, 1
+11235, webgbrowsea, 10
+11236, gbrowse, 10
+11237, webgbrowse0, 1
+11243, Amazonâs0, 1
+11254, penalizedsvm, 1, 1
+11255, rpackage, 40
+11256, R-package0, 3
+11257, ucompare, 20
+11258, uima, 10
+11259, u-compare0, 1
+11261, snpinfo, 1, 1
+11265, gsflx, 10
+11266, GSFlx0, 1
+11268, bowiki, 1, 1
+11272, Color-space0, 1
+11275, cetp, 10
+11279, frequencybased, 10
+11282, weblab, 1, 1
+11283, datacentric, 20
+11284, knowledgesharing, 20
+11288, rtracklayer, 1, 1
+11291, tfmirna, 10
+11292, TF-miRNA0, 1
+11293, literaturedata, 10
+11294, literature-data0, 1
+11295, abacas, 1, 1
+11296, algorithmbased, 10
+11297, contiguation, 1, 1
+11299, soap20, 1
+11300, ABySS0, 1
+11301, phylobayes, 1, 1
+11302, Coestimation0, 1
+11304, circos, 1, 1
+11305, varscan, 1, 1
+11307, shrec, 1, 1
+11309, nonuniqueness, 10
+11311, jbrowse, 1, 1
+11314, razersfast, 10
+11315, razersâfast0, 1
+11316, webarraydb, 1, 1
+11317, multimapping, 10
+11318, mumrescuelite, 10
+11319, multi-mapping0, 1
+11320, MuMRescueLite0, 1
+11321, orthoselect, 1, 1
+11322, rshell, 10
+11323, RShell0, 1
+11324, v1.20, 1
+11325, biomaRt0, 1
+11329, tablebutler, 1, 1
+11331, CLustering0, 1
+11333, wikipathways, 10
+11335, diseasespecific, 10
+11336, drugprotein, 10
+11338, drug-protein0, 1
+11339, rnamate, 10
+11340, rnasequencing, 30
+11341, rna-mate0, 1
+11342, RNA-sequencing0, 3
+11343, pubmedex, 10
+11344, pubmed-ex0, 1
+11347, De-noising0, 1
+11350, lookseq, 1, 1
+11351, browserbased, 10
+11353, illuminas, 10
+11355, beadchips, 10
+11356, r/bioconductor0, 1
+11358, BeadChips0, 1
+11359, mobyle, 1, 1
+11362, shotgunfunctionalizer, 1, 1
+11363, integromics, 1, 1
+11364, subpathwayminer, 1, 1
+11365, centiscape, 10
+11366, CentiScaPe0, 1
+11371, tagdusta, 10
+11372, tagdust0, 1
+11383, thermotoga, 10
+11390, phylopattern, 1, 1
+11391, bayespeak, 1, 1
+11392, galign, 1, 1
+11394, biogateway, 1, 1
+11395, introduccin, 10
+11397, anlisis, 10
+11399, introducciã³n0, 1
+11400, anÃ¡lisis0, 1
+11405, Secretome0, 1
+11409, hmmconverter, 1, 1
+11410, mirexpress, 1, 1
+11415, gputools, 1, 1
+11416, degseq, 1, 1
+11417, ngsview, 1, 1
+11423, phyloxml, 1, 1
+11424, gnumap, 10
+11425, GNUMAP0, 1
+11426, nonneutral, 2, 1
+11427, barcrawl, 1, 1
+11428, bartab, 10
+11431, BARTAB0, 1
+11432, ingap, 1, 1
+11434, crossproduct, 10
+11436, scratchpads, 1, 1
+11437, datapublishing, 10
+11438, data-publishing0, 1
+11441, jaspar, 2, 1
+11447, biomodelsnet, 10
+11448, biomodels.net0, 1
+11450, conceptgen, 1, 1
+11451, misannotation, 10
+11453, Misannotation0, 1
+11455, Superfamilies0, 1
+11465, estassembly, 10
+11466, est2assembly0, 1
+11476, bridgedb, 10
+11477, BridgeDb0, 1
+11478, pymix, 1, 1
+11482, netpath, 1, 1
+11485, bamview, 1, 1
+11486, mirmaid, 1, 1
+11487, seqtrim, 1, 1
+11489, tagdirected, 10
+11490, tag-directed0, 1
+11491, longread, 10
+11492, burrowswheeler, 20
+11493, long-read0, 1
+11501, bedtools, 1, 1
+11503, fragbag, 1, 1
+11505, imotifs, 1, 1
+11506, microindel, 1, 1
+11507, snptolerant, 10
+11508, SNP-tolerant0, 1
+11510, resourcesusing, 10
+11511, ebeye, 10
+11512, EB-eye0, 1
+11513, phybase, 1, 1
+11514, khoisan, 10
+11522, sbrml, 1, 1
+11524, R-Package0, 1
+11525, scriptree, 1, 1
+11526, temperatureaccelerated, 10
+11527, temperature-accelerated0, 1
+11528, spici, 1, 1
+11529, snvmix, 1, 1
+11530, maydayintegrative, 10
+11532, xgap, 1, 1
+11535, densitree, 1, 1
+11537, v3d0, 1
+11538, orfan, 10
+11539, ORFan0, 1
+11540, mapmi, 1, 1
+11541, mirsel, 1, 1
+11547, cdktaverna, 10
+11548, cdk-taverna0, 1
+11549, sicago, 1, 1
+11552, genemesh, 1, 1
+11557, openflydata, 1, 1
+11561, basallike, 10
+11564, biotorrents, 1, 1
+11566, vitrosimulated, 10
+11567, Vitro-Simulated0, 1
+11568, ergatis, 1, 1
+11570, rcsb, 10
+11571, biolit, 10
+11573, BioLit0, 1
+11574, cgaln, 1, 1
+11578, repitools, 1, 1
+11579, enrichmentbased, 10
+11581, enrichment-based0, 1
+11583, ehive, 1, 1
+11588, biocatalogue, 1, 1
+11589, funcbase, 1, 1
+11590, geworkbench, 1, 1
+11591, cisgenome, 1, 1
+11592, pathtext, 1, 1
+11594, W.A.T.E.R.S0, 1
+11598, icorn, 10
+11600, iCORN0, 1
+11606, cloudcoffee, 10
+11607, consistencybased, 30
+11608, tcoffee, 10
+11609, elasticcloud, 10
+11610, cloud-coffee0, 1
+11611, consistency-based0, 3
+11614, Elastic-Cloud0, 1
+11615, genebased, 10
+11620, Gene-Based0, 1
+11621, seqadapt, 1, 1
+11622, happenâŠ0, 1
+11623, logodds, 10
+11625, Log-Odds0, 1
+11631, dielsalder, 10
+11638, bigbed, 10
+11639, BigBed0, 1
+11642, s3db0, 1
+11646, standardscompliant, 10
+11650, peakanalyzer, 1, 1
+11651, bayseq, 1, 1
+11653, cloudscale, 10
+11657, U-Compare0, 1
+11661, bioruby, 1, 1
+11664, bioxsd, 1, 1
+11665, dataexchange, 10
+11667, pubdna, 1, 1
+11670, ruffus, 1, 1
+11671, metnetge, 1, 1
+11672, mirnakey, 1, 1
+11680, geoseq, 1, 1
+11682, deepsequencing, 10
+11683, deep-sequencing0, 1
+11684, populationscale, 10
+11685, population-scale0, 1
+11687, dindel, 1, 1
+11688, cagrid, 1, 1
+11696, coorganization, 10
+11697, co-organization0, 1
+11700, selfdissimilarity, 10
+11701, Self-Dissimilarity0, 1
+11711, transcriptionregulation, 10
+11712, transcriptionâregulation0, 1
+11713, `Independent0, 1
+11716, contentaddressable, 10
+11747, synchronydependent, 10
+11748, synchrony-dependent0, 1
+11751, pathblast, 1, 1
+11754, hopbyhop, 10
+11765, daknet, 1, 1
+11766, destinationsequenced, 10
+11767, distancevector, 10
+11768, dsdv, 10
+11769, Destination-Sequenced0, 1
+11770, Distance-Vector0, 1
+11776, multiradio, 30
+11790, metashark, 1, 1
+11804, networklevel, 20
+11815, INQUERY0, 1
+11833, globalscale, 10
+11835, Global-scale0, 1
+11873, LargeScale0, 1
+11875, edgebetweenness, 10
+11876, Edge-Betweenness0, 1
+11886, vulnerabilitydriven, 10
+11887, vulnerability-driven0, 1
+11894, peertrust, 1, 1
+11895, reputationbased, 20
+11910, lowbandwidth, 10
+11929, multiscaling, 1, 1
+11932, pubnet, 1, 1
+11942, actornetworktheory, 10
+11944, Actor-network-theory0, 1
+11951, selforganization, 110
+11954, skipnet, 1, 1
+11961, crosslayering, 10
+11962, cross-layering0, 1
+11995, erbb, 10
+11997, depthfirst, 10
+11999, linklevel, 20
+12001, 802.11b0, 2
+12020, gapgene, 10
+12021, gap-gene0, 1
+12023, polychronization, 1, 1
+12025, interferenceaware, 10
+12027, interference-aware0, 1
+12033, miniarray, 1, 1
+12050, Internel0, 1
+12056, neurocomputational, 1, 1
+12057, taskoriented, 10
+12065, agentorganized, 10
+12066, agent-organized0, 1
+12074, antnet, 1, 1
+12075, stigmergetic, 10
+12076, Stigmergetic0, 1
+12080, applicationlevel, 10
+12085, crosslayer, 50
+12089, cfinder, 1, 1
+12095, syntren, 1, 1
+12134, 'load0, 1
+12135, 'choke0, 1
+12143, twostate, 10
+12156, interactomes, 2, 1
+12159, Interactomes0, 1
+12172, cloudalicious, 1, 1
+12184, decisiontheoretic, 10
+12192, 802.11b/g0, 1
+12194, xors, 1, 1
+12197, bnarray, 1, 1
+12202, informationtheoretic, 40
+12209, ihoperator, 1, 1
+12210, userscripting, 10
+12211, user-scripting0, 1
+12219, presenceinabsence, 10
+12220, presence-in-absence0, 1
+12221, sociocentric, 1, 1
+12222, networkaided, 10
+12223, network-aided0, 1
+12226, roletorole, 10
+12227, role-to-role0, 1
+12239, graphlet, 1, 1
+12245, bibliomic, 1, 1
+12246, wikigraph, 10
+12247, Wikigraph0, 1
+12249, proliferationdifferentiation, 10
+12250, proliferation/differentiation0, 1
+12256, phenomeinteractome, 10
+12257, phenome-interactome0, 1
+12283, linkprediction, 10
+12284, link-prediction0, 1
+12290, gosim, 1, 1
+12297, diffusionweighted, 10
+12317, kshell, 10
+12318, k-shell0, 1
+12328, gpsless, 10
+12329, gps-less0, 1
+12331, randomwalk, 10
+12344, contextsensitive, 30
+12346, ethniccultural, 10
+12348, Ethnic/Cultural0, 1
+12352, matchandsplit, 10
+12353, match-and-split0, 1
+12356, schizosaccharomyces, 20
+12368, â0, 2
+12370, firstpassage, 10
+12371, scaleinvariant, 10
+12372, first-passage0, 1
+12376, delaytolerant, 30
+12377, manets, 10
+12380, supernets, 1, 1
+12384, onlinecommunities, 10
+12386, internetzeitalter, 10
+12389, fhrt, 10
+12390, Online-Communities0, 1
+12391, Internet-Zeitalter0, 1
+12393, fÃŒhrt0, 1
+12396, eigengene, 1, 1
+12414, osmoadaptation, 10
+12416, Osmo-Adaptation0, 1
+12417, graphcrunch, 1, 1
+12420, bcell, 20
+12426, blockmodels, 1, 1
+12431, eqed, 1, 1
+12436, gene3d0, 2
+12438, donât0, 1
+12450, cocomplexed, 10
+12451, Co-Complexed0, 1
+12459, drugresponse, 10
+12460, drug-response0, 1
+12464, messengerlike, 10
+12465, messenger-like0, 1
+12469, 802.11p0, 1
+12477, selfexpression, 10
+12498, facebookcom, 10
+12505, frequencymodulated, 10
+12512, gseasnp, 10
+12513, gsea-snp0, 1
+12515, cytokineinduced, 10
+12524, arenad, 10
+12525, arena3d0, 1
+12529, kronecker, 1, 1
+12530, conditionspecific, 10
+12533, Condition-Specific0, 1
+12535, cosilence, 10
+12536, wellseparated, 10
+12538, co-silence0, 1
+12543, sciminer, 1, 1
+12553, successdriven, 10
+12555, alphasynuclein, 10
+12557, cluego, 1, 1
+12563, genge, 1, 1
+12564, planetaryscale, 10
+12565, instantmessaging, 10
+12574, deanonymizing, 10
+12575, de-anonymizing0, 1
+12581, edgeexpressdb, 10
+12582, fantom40, 1
+12583, EdgeExpressDB0, 1
+12584, measurementdriven, 10
+12585, measurement-driven0, 1
+12586, diversitybased, 10
+12587, modelguided, 10
+12588, diversity-based0, 1
+12589, model-guided0, 1
+12590, trnaprotein, 10
+12595, multitissue, 20
+12596, multi-tissue0, 1
+12612, likelihoodfree, 10
+12613, likelihood-free0, 1
+12614, complexcentric, 10
+12615, complex-centric0, 1
+12617, phosphoregulation, 10
+12618, Phosphoregulation0, 1
+12628, caleydo, 1, 1
+12631, technosocial, 10
+12632, Techno-Social0, 1
+12633, socialecological, 10
+12637, diseasedrug, 10
+12638, disease-drug0, 1
+12639, micrornadriven, 10
+12640, microRNA-driven0, 1
+12648, diseasedisease, 10
+12649, disease-disease0, 1
+12651, coextinctions, 10
+12655, Coextinctions0, 1
+12661, Micro-circuits0, 1
+12664, keggconverter, 1, 1
+12666, starnet, 1, 1
+12667, arraymining, 1, 1
+12669, crossstudy, 10
+12672, edgetic, 1, 1
+12679, newmangirvan, 10
+12680, modularities, 1, 1
+12681, NewmanâGirvan0, 1
+12682, negatome, 10
+12683, Negatome0, 1
+12685, genomereduced, 20
+12686, genome-reduced0, 2
+12687, gabaergic, 1, 1
+12693, Phosphoproteomic0, 1
+12696, influencebased, 10
+12697, homophilydriven, 10
+12699, homophily-driven0, 1
+12701, biana, 1, 1
+12707, multirelational, 2, 1
+12723, networkdosage, 10
+12724, network-dosage0, 1
+12726, Cis-Regulatory0, 1
+12727, Ascomycete0, 1
+12730, contextdependent, 10
+12738, microepidemic, 1, 1
+12739, neighborjoining, 10
+12742, neuralnetwork, 10
+12745, Neural-Network0, 1
+12747, ligandcentric, 10
+12749, Ligand-centric0, 1
+12750, ProteinâLigand0, 1
+12756, genesets, 10
+12757, gene-sets0, 1
+12758, nonmendelian, 10
+12759, extragenomic, 10
+12760, non-mendelian0, 1
+12761, extra-genomic0, 1
+12766, codonsubstitution, 10
+12767, codon-substitution0, 1
+12771, proteininteraction, 20
+12772, Protein-Interaction0, 1
+12811, orthomcl, 1, 1
+12815, microchemostat, 1, 1
+12819, consurf, 1, 1
+12827, twogene, 10
+12828, two-gene0, 1
+12833, gdel, 10
+12838, gã¶del0, 1
+12846, genespecies, 10
+12847, gene/species0, 1
+12850, subtelomeres, 1, 1
+12855, Superorganisms0, 1
+12856, wolbachia, 20
+12857, pipientis, 1, 1
+12858, wmel, 10
+12862, wMel0, 1
+12863, microcephalin, 2, 1
+12867, aspm, 20
+12884, usagedriven, 10
+12885, Usage-driven0, 1
+12893, retroposition, 10
+12896, Retroposition0, 1
+12907, branchsite, 20
+12908, Branch-Site0, 1
+12911, cisregulation, 20
+12914, cis-Regulation0, 1
+12915, partners10, 1
+12917, Reconceived0, 1
+12922, superfolds, 1, 1
+12923, profilebased, 20
+12929, Nonsynonymous0, 1
+12954, MIRNA0, 2
+12956, multilagan, 10
+12957, Multi-LAGAN0, 1
+12958, orthomcldb, 10
+12959, orthomcl-db0, 1
+12965, usagebased, 10
+12974, transposonfree, 10
+12975, transposon-free0, 1
+12976, singlenucleotide, 40
+12978, intra-0, 1
+12980, phylogibbs, 1, 1
+12986, exonintron, 10
+12992, foxp, 30
+12994, prochlorococcus, 20
+12999, hormonereceptor, 10
+13000, Hormone-Receptor0, 1
+13007, Complexification0, 1
+13034, embryogenies, 10
+13036, Embryogenies0, 1
+13037, architecturebased, 10
+13039, heterotachy, 1, 1
+13041, humanchimpmouse, 10
+13043, Nonneutral0, 1
+13044, Human-Chimp-Mouse0, 1
+13050, germlinespecific, 10
+13052, germline-specific0, 1
+13064, pseudogenization, 1, 1
+13072, hostparasite, 10
+13078, deletional, 1, 1
+13080, sangerpyrosequencing, 10
+13081, Sanger/pyrosequencing0, 1
+13082, `tragedy0, 1
+13084, birthanddeath, 10
+13091, transgeneration, 1, 1
+13094, DomainâDomain0, 1
+13106, Punctuational0, 2
+13116, pyevolve, 1, 1
+13131, drosophilidae, 10
+13148, communitydriven, 10
+13162, âexplosionâ0, 1
+13169, naip, 10
+13172, Anti-Apoptotic0, 1
+13175, scafos, 1, 1
+13190, freeliving, 10
+13202, ubiorss, 1, 1
+13209, blast2go0, 1
+13210, maternaleffect, 10
+13211, Maternal-Effect0, 1
+13223, lifehistory, 10
+13233, phylome, 1, 1
+13234, fastevolving, 10
+13240, bmp40, 1
+13244, Microcephalin0, 1
+13251, firstprinciples, 10
+13255, singleinput, 10
+13259, Paralogy0, 1
+13263, polyworld, 10
+13264, PolyWorld0, 1
+13265, humantechnology, 10
+13267, Human-Technology0, 1
+13275, ultraselected, 10
+13276, Ultraconserved0, 2
+13277, Ultraselected0, 1
+13280, cegma, 1, 1
+13281, nutritionrelated, 10
+13282, neural-0, 1
+13296, topdfmts, 10
+13297, topd/fmts0, 1
+13299, hexaploidization, 1, 1
+13308, worduse, 10
+13309, indoeuropean, 10
+13310, word-use0, 1
+13312, chlamydomonas, 10
+13315, humanmicrobe, 10
+13316, human-microbe0, 1
+13317, ohnos, 10
+13320, genetree, 10
+13321, gene-tree0, 1
+13322, gene-0, 1
+13324, quorumsensing, 10
+13333, longestablished, 10
+13335, Long-Established0, 1
+13337, mutationselection, 10
+13338, mutation-selection0, 1
+13344, choanoflagellate, 1, 1
+13345, monosiga, 10
+13346, brevicollis, 1, 1
+13347, Monosiga0, 1
+13356, selexa, 10
+13357, highaffinity, 10
+13358, selexâa0, 1
+13367, retroaldol, 10
+13368, Retro-Aldol0, 1
+13370, evolveagene, 10
+13371, EvolveAGene0, 1
+13372, microRNA*0, 1
+13383, mcdonaldkreitman, 10
+13384, McDonald-Kreitman0, 1
+13398, Bdelloid0, 1
+13400, csmet, 1, 1
+13403, Copy-Number0, 2
+13406, sepsid, 1, 1
+13407, evenskipped, 10
+13408, even-skipped0, 1
+13412, eucarya, 10
+13414, mistranslationinduced, 10
+13415, codingsequence, 20
+13416, mistranslation-induced0, 1
+13417, coding-sequence0, 2
+13418, insertionsdeletions, 10
+13423, Bacterioplankton0, 1
+13431, energydependent, 10
+13436, mhcdependent, 10
+13438, MHC-Dependent0, 1
+13440, prevolutionary, 1, 1
+13441, transeffects, 10
+13442, cis-0, 2
+13443, trans-effects0, 1
+13446, cogemir, 1, 1
+13447, singlespecies, 10
+13448, Single-Species0, 1
+13452, expressionqtls, 10
+13453, Expression-QTLs0, 1
+13455, mirrortree, 1, 1
+13456, nucleotidelevel, 10
+13457, nucleotide-level0, 1
+13458, elementinduced, 10
+13459, ElementâInduced0, 1
+13469, psbo, 10
+13474, psbO0, 1
+13476, agedependent, 10
+13480, sequencelevel, 10
+13482, sequence-level0, 1
+13484, selfsustained, 10
+13491, nonretroviral, 20
+13495, Nonretroviral0, 1
+13496, methylationassociated, 10
+13497, methylation-associated0, 1
+13501, megaphylogeny, 10
+13502, mega-phylogeny0, 1
+13503, pangenome, 20
+13506, highcoverage, 10
+13507, genomesequencing, 10
+13512, siteprediction, 10
+13513, branch-site0, 1
+13514, site-prediction0, 1
+13531, micrornadirected, 10
+13532, microRNA-directed0, 1
+13543, Cortico-Basal0, 1
+13549, discretecontinuous, 10
+13550, discreteâcontinuous0, 1
+13552, huntergatherers, 10
+13562, orthoclusterdb, 1, 1
+13564, rbhc, 10
+13565, r/bhc0, 1
+13568, reconstructioninference, 10
+13570, Reconstruction/Inference0, 1
+13571, Metagenomes0, 1
+13574, knucklewalking, 10
+13581, repclass, 10
+13583, REPCLASS0, 1
+13593, nongenic, 1, 1
+13597, xmrv, 10
+13618, non-retroviral0, 1
+13636, ultrahighthroughput, 10
+13637, dropbased, 10
+13638, ultrahigh-throughput0, 1
+13639, drop-based0, 1
+13640, palaeoeskimo, 10
+13641, Palaeo-Eskimo0, 1
+13643, quadrupletdecoding, 10
+13644, quadruplet-decoding0, 1
+13647, acyrthosiphon, 10
+13653, individualspecific, 10
+13654, Individual-Specific0, 1
+13655, Allele-Specific0, 1
+13661, mRNA-seq0, 1
+13662, carbohydrateactive, 10
+13663, carbohydrate-active0, 1
+13664, fivevertebrate, 10
+13665, five-vertebrate0, 1
+13671, dendropy, 1, 1
+13675, arraybased, 10
+13678, gcbiased, 10
+13679, gc-biased0, 1
+13685, molecularphenome, 10
+13686, molecular-phenome0, 1
+13692, parentoforigin, 10
+13693, Parent-of-Origin0, 1
+13696, bornavirus, 10
+13697, ebolavirusmarburgvirus, 10
+13700, Bornavirus0, 1
+13701, Ebolavirus/Marburgvirus0, 1
+13702, amphimedon, 10
+13703, queenslandica, 1, 1
+13704, Amphimedon0, 1
+13705, âcompleteâ0, 1
+13709, populationwide, 10
+13714, informationtoenergy, 10
+13715, jarzynski, 10
+13716, information-to-energy0, 1
+13717, Jarzynski0, 1
+13725, 'small-world0, 1
+13729, canalyzing, 1, 1
+13733, âfat0, 1
+13734, tailsâ0, 1
+13735, koorde, 1, 1
+13736, degreeoptimal, 10
+13737, degree-optimal0, 1
+13747, highlypartitioned, 10
+13758, gsmgpr, 10
+13759, iJR9040, 1
+13760, GSM/GPR0, 1
+13772, supportvector, 10
+13773, support-vector0, 1
+13776, locationsupport, 10
+13778, location-support0, 1
+13796, bandwidthdelay, 10
+13797, bandwidth-delay0, 1
+13799, wellconditioned, 10
+13801, internetlike, 10
+13802, internet-like0, 1
+13810, Invariances0, 1
+13811, vizster, 1, 1
+13824, wholeproteome, 10
+13825, graphtheoretic, 10
+13826, whole-proteome0, 1
+13829, phylogeneticstatistical, 10
+13831, Phylogenetic-Statistical0, 1
+13846, knowledgebuilding, 10
+13851, iND7500, 1
+13856, arrayprospector, 1, 1
+13861, shortestpath, 10
+13872, threetier, 10
+13873, MULEs0, 1
+13875, gossipbased, 30
+13876, gossip-based0, 2
+13877, tinydb, 1, 1
+13878, acquisitional, 1, 1
+13879, unalog, 10
+13880, Unalog0, 1
+13886, 'pluralization0, 1
+13887, life-worlds0, 1
+13894, pathguide, 1, 1
+13897, homomint, 1, 1
+13898, patternoriented, 30
+13899, pattern-oriented0, 3
+13913, cyborgscyberspace, 10
+13919, zebranet, 10
+13926, multilisp, 1, 1
+13928, declarativeprocedural, 10
+13929, declarative/procedural0, 1
+13931, zmac, 10
+13932, z-mac0, 1
+13935, genecentered, 30
+13940, polyphonet, 1, 1
+13945, phaselocked, 10
+13950, sybilguard, 1, 1
+13959, selfregulating, 10
+13965, manwan, 10
+13966, MAN/WAN0, 1
+13972, Single-Neuron0, 1
+13981, biopp, 1, 1
+13982, webpublication, 10
+13983, Web-publication0, 1
+13990, clusteringsan, 10
+13991, clusteringsâan0, 1
+13992, nucleosomeguided, 10
+13993, nucleosome-guided0, 1
+13994, lowaffinity, 10
+14004, tagbased, 30
+14007, Coactivation0, 1
+14014, socialbased, 10
+14016, Social-based0, 1
+14027, topk, 10
+14028, socialtagging, 10
+14030, social-tagging0, 1
+14031, socialtrust, 1, 1
+14032, tamperresilient, 10
+14033, tamper-resilient0, 1
+14035, chainletter, 10
+14037, apomediation, 10
+14039, Apomediation0, 1
+14041, queryflow, 10
+14042, query-flow0, 1
+14051, asmallworld, 10
+14053, ASmallWorld0, 1
+14055, fastspiking, 10
+14056, fast-spiking0, 1
+14063, memetracking, 10
+14064, meme-tracking0, 1
+14069, factordna, 10
+14070, factorâDNA0, 1
+14072, pregel, 1, 1
+14080, diversityaccuracy, 10
+14081, diversity-accuracy0, 1
+14084, decorrelates, 1, 1
+14086, haploview, 1, 1
+14115, floatingpoint, 10
+14126, JourneyMan0, 1
+14132, peopleware, 1, 1
+14134, archjava, 1, 1
+14136, scenariobased, 10
+14138, 4+10, 1
+14146, conways, 10
+14153, Defamiliarization0, 1
+14155, probcons, 1, 1
+14174, singleparticle, 10
+14176, rocr, 1, 1
+14178, softwarebased, 10
+14181, cascadeparallel, 10
+14184, cascade/parallel0, 1
+14186, opls, 10
+14188, All-Atom0, 1
+14204, prominer, 1, 1
+14210, searchbased, 10
+14213, hydrogenbonded, 10
+14216, agentoriented, 20
+14221, graphtheory, 10
+14233, medlinepubmed, 20
+14235, snpdetector, 1, 1
+14240, selforganising, 10
+14242, phasespace, 10
+14245, selfmanagement, 10
+14247, geneways, 1, 1
+14254, citespace, 1, 1
+14256, softwarean, 10
+14266, comingofage, 10
+14272, chimeraa, 10
+14277, bicat, 1, 1
+14278, baliphy, 10
+14279, bali-phy0, 1
+14281, waypointing, 1, 1
+14284, eburst, 1, 1
+14290, freeopen, 10
+14293, mmtsb, 1, 1
+14297, pvclust, 1, 1
+14304, package*10, 1
+14305, bdiarchitecture, 10
+14306, BDI-Architecture0, 1
+14307, pubfocus, 1, 1
+14308, merlinrapid, 10
+14310, arrayfusion, 1, 1
+14311, tigrscan, 1, 1
+14312, glimmerhmm, 10
+14313, GlimmerHMM0, 1
+14314, geneprediction, 10
+14315, gene-prediction0, 1
+14318, rankprod, 1, 1
+14319, namematching, 10
+14320, Name-Matching0, 1
+14322, variablelength, 10
+14324, polymirts, 1, 1
+14327, arrayexpressa, 20
+14328, arrayexpress, 1, 2
+14329, profilesdatabase, 10
+14331, textderived, 10
+14333, text-derived0, 1
+14335, cinteny, 1, 1
+14336, gapwm, 1, 1
+14346, fastdash, 1, 1
+14362, wissensmanagement, 10
+14365, fÃŒr0, 1
+14373, eu.gene0, 1
+14377, polyscan, 1, 1
+14383, owldl, 10
+14386, picr, 10
+14389, PICR0, 1
+14390, wordom, 1, 1
+14391, selfmanaged, 10
+14395, manyeyes, 1, 1
+14398, informationseeking, 30
+14400, ezarray, 1, 1
+14401, loadbalanced, 10
+14403, mcfold, 10
+14404, mcsym, 10
+14405, MC-Fold0, 1
+14406, MC-Sym0, 1
+14407, gorouter, 1, 1
+14408, middlewarebased, 10
+14409, Middleware-based0, 1
+14414, batchprimer, 10
+14415, batchprimer30, 1
+14420, arraywiki, 1, 1
+14422, immunoprecipitationbased, 10
+14424, immunoprecipitation-based0, 1
+14425, Imputation-Based0, 1
+14426, Re-Sequencing0, 1
+14427, altacyclic, 10
+14428, selfoptimizing, 10
+14429, alta-cyclic0, 1
+14431, proteopedia, 1, 1
+14434, 'wiki0, 1
+14437, proxygenes, 1, 1
+14441, itfp, 1, 1
+14442, phylocom, 1, 1
+14444, bibglimpse, 1, 1
+14447, biocaster, 1, 1
+14449, chromasig, 1, 1
+14453, corepromoter, 10
+14454, coreboosthm, 10
+14455, core-promoter0, 1
+14456, CoreBoost_HM0, 1
+14457, arrayplex, 1, 1
+14459, cellprofiler, 2, 2
+14466, rankaggreg, 1, 1
+14467, pemer, 1, 1
+14468, simulationbased, 10
+14470, micropred, 1, 1
+14471, premirnas, 10
+14473, referenceguided, 10
+14474, reference-guided0, 1
+14475, bioconductorbuntu, 1, 1
+14483, dianamicrot, 10
+14484, diana-microt0, 1
+14485, miranalyzer, 1, 1
+14486, mimas, 1, 1
+14487, multiomics, 10
+14488, Multiomics0, 1
+14489, jclust, 1, 1
+14490, pscan, 1, 1
+14492, utgb, 1, 1
+14495, autodock, 2, 1
+14499, pindel, 1, 1
+14501, bsmap, 1, 1
+14503, MAPping0, 1
+14504, bayescall, 1, 1
+14506, targetminer, 1, 1
+14507, qubic, 1, 1
+14508, genotypedata, 10
+14509, transcript-0, 1
+14510, genotype-data0, 1
+14511, sswap, 1, 1
+14512, readmapping, 10
+14513, read-mapping0, 1
+14514, mirgen, 1, 1
+14515, EXpression0, 1
+14517, biogps, 1, 1
+14519, semanticsbml, 10
+14520, semanticSBML0, 1
+14521, tmod, 1, 1
+14522, nucleotideresolution, 10
+14523, breakseq, 10
+14524, nucleotide-resolution0, 1
+14525, BreakSeq0, 1
+14527, integratedmodular, 10
+14528, integrated-modular0, 1
+14531, tabsql, 1, 1
+14533, annovar, 1, 1
+14535, splicemap, 10
+14536, SpliceMap0, 1
+14537, sewal, 1, 1
+14538, gassst, 1, 1
+14540, solexaqa, 1, 1
+14541, ataglance, 10
+14544, srma, 10
+14554, neurospora, 10
+14557, 5-nucleotide0, 1
+14567, mirbase, 2, 2
+14571, proteinencoding, 10
+14573, multifactordimensionality, 10
+14574, estrogenmetabolism, 10
+14575, multifactor-dimensionality0, 1
+14576, estrogen-metabolism0, 1
+14577, reducedgenome, 10
+14578, Reduced-Genome0, 1
+14583, primerdirected, 10
+14585, primer-directed0, 1
+14587, splicesite, 10
+14591, obesityassociated, 10
+14594, formaldehydeassisted, 10
+14595, Formaldehyde-Assisted0, 1
+14596, eigenanalysis, 10
+14597, Eigenanalysis0, 1
+14605, higheraccuracy, 10
+14607, Higher-Accuracy0, 1
+14622, ctcfbinding, 10
+14623, CTCF-binding0, 1
+14627, Dayâs0, 1
+14630, mirnamap, 1, 1
+14641, misfishie, 10
+14642, MISFISHIE0, 1
+14648, compostbin, 1, 1
+14649, compositionbased, 10
+14650, composition-based0, 1
+14656, proteogenomics, 1, 1
+14663, highprecision, 10
+14673, interlab, 10
+14675, inter-lab0, 1
+14679, motifmap, 1, 1
+14683, lowcoverage, 10
+14690, emaas, 1, 1
+14691, gridbased, 10
+14697, miniregulatory, 10
+14698, mini-regulatory0, 1
+14701, illuminasolexa, 10
+14702, B728a0, 1
+14703, Illumina/Solexa0, 1
+14704, hydroxymethylcytosine, 10
+14708, 5-Hydroxymethylcytosine0, 1
+14710, 5p14.10, 1
+14712, socioethnic, 10
+14715, socio-ethnic0, 1
+14719, conditionspecificity, 10
+14720, condition-specificity0, 1
+14722, clinseq, 10
+14724, ClinSeq0, 1
+14731, twobase, 10
+14742, transcriptiondependent, 10
+14744, transcription-dependent0, 1
+14747, selfassembling, 20
+14748, nanoarrays, 10
+14751, Nanoarrays0, 1
+14754, smallcell, 10
+14757, palaeopolyploid, 1, 1
+14759, phenomir, 1, 1
+14769, exonresequencing, 10
+14771, Exon-Resequencing0, 1
+14775, Proband0, 1
+14786, ciselement, 10
+14789, basidiomycetous, 10
+14792, Basidiomycetous0, 1
+14797, dictyostelium, 10
+14819, micrornaome, 10
+14820, microRNAome0, 1
+14827, INDEL0, 1
+14828, ebpr, 10
+14830, EBPR0, 1
+14835, ustilago, 20
+14838, nonproteincoding, 10
+14849, typespecific, 10
+14850, TypeâSpecific0, 1
+14852, domainwide, 10
+14854, rnamediated, 10
+14855, genomerearrangement, 10
+14856, rna-mediated0, 1
+14857, genome-rearrangement0, 1
+14865, singlebase, 10
+14866, Single-Base0, 1
+14867, celera, 10
+14870, factoractivated, 10
+14871, factorâactivated0, 1
+14873, cis-regulation0, 1
+14877, targettb, 1, 1
+14880, Transposases0, 1
+14881, allele-0, 1
+14883, hdacs, 10
+14887, protoploid, 1, 1
+14888, saccharomycetaceae, 10
+14889, Saccharomycetaceae0, 1
+14891, misassembly, 10
+14892, mis-assembly0, 1
+14897, sordaria, 10
+14898, macrospora, 1, 1
+14899, Sordaria0, 1
+14903, 2âÎÎCT0, 1
+14909, timerescaling, 10
+14910, Time-Rescaling0, 1
+14943, nonnested, 10
+14945, Non-Nested0, 1
+14948, fstatistics, 10
+14949, F-Statistics0, 1
+14950, kfold, 10
+14951, K-fold0, 1
+14955, 'race0, 1
+14969, zmethod, 10
+14970, Z-method0, 1
+14971, monthold, 20
+14972, 8-Month-Old0, 1
+14981, permutationbased, 10
+14982, permutation-based0, 1
+14991, zipflike, 10
+14993, Zipf-like0, 1
+15000, pseudoreplication, 1, 1
+15001, randomeffects, 10
+15017, speciesâ0, 1
+15037, âsignificantâ0, 1
+15038, ânot0, 1
+15039, significantâ0, 1
+15042, powerlaws, 10
+15043, power-laws0, 1
+15044, boltzmanngibbs, 10
+15045, Boltzmann-Gibbs0, 1
+15048, clusterbased, 20
+15052, interstudy, 2, 1
+15057, sourcebooknd, 10
+15061, multilevelhierarchical, 10
+15062, Multilevel/Hierarchical0, 1
+15064, lifetables, 10
+15065, Life-Tables0, 1
+15069, postnormal, 10
+15071, coooperation, 10
+15072, Coooperation0, 1
+15076, cvaluencvalue, 10
+15078, C-value/NC-value0, 1
+15090, universitext, 10
+15097, distancebased, 10
+15105, twocolour, 10
+15108, lvy, 10
+15113, LÃ©vy0, 1
+15114, precisionrecall, 10
+15115, Precision-Recall0, 1
+15127, componentfactor, 10
+15128, component/factor0, 1
+15129, dotur, 10
+15130, DOTUR0, 1
+15139, mixedeffects, 10
+15149, multiuniversity, 10
+15157, genepathway, 10
+15158, gene/pathway0, 1
+15159, intergene, 1, 1
+15161, beadarray, 20
+15162, BeadArray0, 2
+15174, diseaseontology, 10
+15176, geneontology, 10
+15177, disease-ontology0, 1
+15178, gene-ontology0, 1
+15179, resamplingbased, 10
+15180, resampling-based0, 1
+15193, gobayes, 10
+15194, go-bayes0, 1
+15196, Multi-tissue0, 1
+15199, bittorrentlike, 20
+15200, BitTorrent-like0, 2
+15228, goms, 10
+15233, sciencesrd, 10
+15243, cloningbased, 10
+15245, cloning-based0, 1
+15255, documentationtosourcecode, 10
+15256, documentation-to-source-code0, 1
+15259, setbased, 10
+15260, Set-Based0, 1
+15262, kayenta, 10
+15275, rflp, 10
+15287, ondex, 10
+15288, ONDEX0, 1
+15291, proteinrna, 20
+15292, protein-rna0, 1
+15293, genechips, 20
+15303, singlesubject, 10
+15308, Parcellation0, 1
+15315, tisean, 10
+15316, TISEAN0, 1
+15323, contentdriven, 10
+15325, samgs, 10
+15326, SAM-GS0, 1
+15327, sentiwordnet, 1, 1
+15336, overlyrepresented, 10
+15337, overly-represented0, 1
+15338, nodenegative, 10
+15346, Tag-Based0, 1
+15355, lexiconbased, 10
+15356, lexicon-based0, 1
+15373, literatureaided, 10
+15374, literature-aided0, 1
+15378, offtarget, 10
+15386, coword, 1, 1
+15388, texton, 1, 1
+15404, discosoma, 10
+15409, goaloriented, 10
+15421, aflp, 1, 1
+15422, replicaexchange, 10
+15423, replica-exchange0, 1
+15432, computersupported, 10
+15434, chromosomewide, 10
+15435, promoterspecific, 10
+15436, chromosome-wide0, 1
+15437, promoter-specific0, 1
+15446, millisecondtimescale, 10
+15447, millisecond-timescale0, 1
+15448, spikesorting, 10
+15449, spike-sorting0, 1
+15453, patchclamp, 10
+15454, cellfree, 10
+15468, eeglab, 1, 1
+15469, singletrial, 10
+15478, categoryspecific, 10
+15490, respiratoryvariationrelated, 10
+15491, neuronalactivityrelated, 10
+15492, respiratory-variation-related0, 1
+15493, neuronal-activity-related0, 1
+15495, retroicor, 10
+15496, RETROICOR0, 1
+15502, populationaverage, 10
+15503, surfacebased, 10
+15504, Population-Average0, 1
+15505, Landmark-0, 1
+15506, Surface-based0, 1
+15516, twopoint, 10
+15519, Microrheology0, 1
+15524, carboncycle, 10
+15525, Carbon-cycle0, 1
+15543, selfconsistent, 10
+15571, densityfunctional, 10
+15574, nanometerscale, 10
+15578, rtqpcr, 10
+15582, picalm, 10
+15586, coalescences, 10
+15588, Coalescences0, 1
+15589, lightswitchable, 10
+15590, light-switchable0, 1
+15592, attomolelevel, 10
+15593, attomole-level0, 1
+15595, lcdm, 10
+15602, callbyneed, 10
+15603, call-by-need0, 1
+15623, waitfree, 10
+15625, pulsecoupled, 10
+15626, Pulse-Coupled0, 1
+15628, simplecell, 10
+15629, simple-cell0, 1
+15645, berkeleys, 10
+15647, 'Translations0, 1
+15652, 1907-390, 1
+15655, picalculus, 10
+15674, technologiesnew, 10
+15676, Technologies/New0, 1
+15689, HOLODECK0, 1
+15705, grammatology, 1, 1
+15706, autoregulated, 1, 1
+15707, repressilators, 10
+15708, Repressilators0, 1
+15711, designoriented, 10
+15713, mixedinitiative, 10
+15725, lockfree, 10
+15747, enthography, 10
+15748, Enthography0, 1
+15767, seamful, 1, 1
+15786, communitiesofpractice, 10
+15787, communities-of-practice0, 1
+15791, sharedmemory, 10
+15794, cbms, 10
+15816, selfdriven, 10
+15834, coinduction, 10
+15840, halfreal, 10
+15849, wordmeaning, 10
+15850, Word-Meaning0, 1
+15854, nphard, 10
+15858, theoremproving, 10
+15912, blockiterative, 10
+15913, frequencydomain, 10
+15915, planewave, 1, 1
+15916, block-iterative0, 1
+15931, northholland, 10
+15940, backaction, 10
+15943, Backaction0, 1
+15947, wakefields, 10
+15957, glassforming, 10
+15959, Glass-Forming0, 1
+15960, highharmonic, 10
+15968, functionbehaviourstructure, 10
+15969, function-behaviour-structure0, 1
+15971, labelfree, 10
+15979, rockpaperscissors, 10
+15980, rockâpaperâscissors0, 1
+15981, sociomaterial, 1, 1
+15985, fluctuationdissipation, 10
+15986, fluctuation-dissipation0, 1
+15990, gadts, 10
+15997, multigev, 10
+16000, multi-GeV0, 1
+16003, CONSTRUCTIVIST0, 1
+16007, collesalvetti, 10
+16008, correlationenergy, 10
+16009, Colle-Salvetti0, 1
+16010, correlation-energy0, 1
+16025, inducedfit, 10
+16026, populationshift, 10
+16027, Induced-fit0, 1
+16028, population-shift0, 1
+16031, lifshitz, 30
+16034, gametheoretic, 10
+16036, dragonkings, 10
+16039, dragon-kings0, 1
+16047, Mono-0, 1
+16051, djury, 10
+16052, 3d-jury0, 1
+16053, fullsentence, 10
+16054, full-sentence0, 1
+16055, hmmhmm, 10
+16056, HMM-HMM0, 1
+16057, dehydron, 1, 1
+16059, dcoffee, 10
+16060, 3dcoffee0, 1
+16062, tetrahedralization, 1, 1
+16067, fssp, 10
+16069, nterminal, 10
+16071, moad, 10
+16074, motorprotein, 10
+16075, elasticnetwork, 10
+16076, motor-protein0, 1
+16077, elastic-network0, 1
+16078, provat, 1, 1
+16086, homstrad, 1, 1
+16087, environmentspecific, 20
+16089, ionpairs, 10
+16090, ion-pairs0, 1
+16091, preorganized, 10
+16093, proteinfolding, 10
+16100, CASP60, 2
+16101, tasser, 1, 1
+16105, structuredependent, 10
+16106, structure-dependent0, 1
+16108, treefam, 1, 1
+16110, ligandreceptor, 10
+16112, Ligand/Receptor0, 1
+16113, pointcharge, 10
+16114, condensedphase, 10
+16115, point-charge0, 1
+16116, condensed-phase0, 1
+16121, INTeraction0, 1
+16122, singleparameter, 10
+16123, single-parameter0, 1
+16127, orientationdependent, 10
+16128, orientation-dependent0, 1
+16129, calpha, 10
+16130, phipsi, 10
+16131, cbeta, 10
+16132, Calpha0, 1
+16133, Cbeta0, 1
+16135, hmmstr, 1, 1
+16136, proteins10, 1
+16137, distancescaled, 10
+16138, idealgas, 10
+16139, structurederived, 10
+16140, distance-scaled0, 1
+16141, ideal-gas0, 1
+16142, structure-derived0, 1
+16145, Proteinsâ0, 1
+16146, atombyatom, 10
+16151, Atomic-Level0, 1
+16153, 1-microsecond0, 1
+16156, timeresolved, 10
+16157, 150-ps0, 1
+16161, bio3d0, 1
+16162, ifold, 1, 1
+16164, proteinâligand0, 1
+16165, Coarse-Graining0, 1
+16166, statisticalmechanical, 10
+16167, statistical-mechanical0, 1
+16168, nativelike, 10
+16174, 'stemness0, 1
+16185, rdcderived, 10
+16187, RDC-Derived0, 1
+16189, emaps, 10
+16190, E-MAPs0, 1
+16192, gproteininteracting, 10
+16193, G-protein-interacting0, 1
+16197, rnabinding, 10
+16201, bzipbinding, 10
+16202, protein-interaction0, 1
+16203, bZIP-binding0, 1
+16204, objectrecognition, 10
+16205, Object-Recognition0, 1
+16206, coregulates, 10
+16208, Co-Regulates0, 1
+16209, protein-dna0, 1
+16212, miRNA-0, 1
+16214, repressorof, 10
+16216, RepressorÂ0, 1
+16220, backboneonly, 10
+16222, Backbone-Only0, 1
+16231, webometrics, 2, 2
+16250, seminumerical, 10
+16252, proteinbased, 10
+16253, dockingscoring, 10
+16255, docking/scoring0, 1
+16256, counterpublics, 10
+16257, Counterpublics0, 1
+16260, tasktracer, 1, 1
+16262, computerassisted, 10
+16264, postwimp, 10
+16265, post-WIMP0, 1
+16268, topicsensitive, 10
+16269, topic-sensitive0, 1
+16273, stimulatedemissiondepletion, 10
+16274, stimulated-emission-depletion0, 1
+16275, eigentrust, 10
+16276, Eigentrust0, 1
+16278, simrank, 1, 1
+16279, structuralcontext, 10
+16280, structural-context0, 1
+16289, linkstructure, 10
+16290, link-structure0, 1
+16296, windowbased, 10
+16301, ProtÃ©gÃ©0, 1
+16303, websnippet, 10
+16304, web-snippet0, 1
+16330, singlegene, 10
+16340, wordnetbased, 10
+16341, WordNet-based0, 1
+16345, messagebased, 10
+16346, component-0, 1
+16357, affineinvariant, 10
+16359, affine-invariant0, 1
+16363, privacysensitive, 10
+16365, entitytopic, 10
+16366, entity-topic0, 1
+16381, localitysensitive, 10
+16382, pstable, 10
+16383, locality-sensitive0, 1
+16385, p-Stable0, 1
+16388, semrank, 1, 1
+16410, briggsaec, 10
+16411, briggsae-C.0, 1
+16418, Boom-boxes0, 1
+16421, featurebased, 10
+16426, âit0, 1
+16427, doesâ0, 1
+16429, dbgap, 10
+16434, transposonderived, 10
+16435, transposon-derived0, 1
+16436, variancestabilizing, 10
+16437, variance-stabilizing0, 1
+16449, pyrosequencingtailored, 10
+16452, pyrosequencing-tailored0, 1
+16453, harvana, 1, 1
+16454, informetrics, 1, 1
+16455, themeriver, 1, 1
+16477, spaserbased, 10
+16478, nanolaser, 1, 1
+16479, spaser-based0, 1
+16482, mageml, 10
+16483, MAGE-ML0, 1
+16485, spiketrain, 10
+16486, Spike-Train0, 1
+16491, activitybased, 10
+16494, intrusiondetection, 10
+16495, Intrusion-Detection0, 1
+16498, saliencybased, 20
+16499, Saliency-Based0, 1
+16501, mixedstrategy, 10
+16502, mixed-strategy0, 1
+16508, saliency-based0, 1
+16513, pfinder, 1, 1
+16516, expectationpropagation, 10
+16517, expectation-propagation0, 1
+16527, extraclassical, 10
+16528, receptivefield, 10
+16529, extra-classical0, 1
+16530, receptive-field0, 1
+16531, informationmaximization, 10
+16532, information-maximization0, 1
+16533, wordrecognition, 10
+16534, word-recognition0, 1
+16544, uncertaintybased, 10
+16546, uncertainty-based0, 1
+16548, stimulusspecific, 10
+16549, stimulus-specific0, 1
+16558, modeldriven, 20
+16561, spiketimingdependent, 20
+16563, spike-timing-dependent0, 2
+16569, megeeg, 10
+16570, MEG/EEG0, 1
+16571, akaike, 1, 1
+16575, theorybased, 10
+16584, auxindriven, 10
+16587, auxin-driven0, 1
+16593, orientationselective, 10
+16594, orientation-selective0, 1
+16596, communicationbased, 10
+16597, Communication-Based0, 1
+16601, trustbased, 10
+16608, vectorspace, 10
+16609, Vector-Space0, 1
+16610, smallmolecule, 10
+16613, cortexlike, 10
+16614, Cortex-Like0, 1
+16615, ldabased, 10
+16616, lda-based0, 1
+16620, activitydependent, 10
+16623, ON-0, 1
+16624, OFF-center0, 1
+16627, Mycolic0, 1
+16628, Anti-Tubercular0, 1
+16645, cellcentered, 10
+16646, cell-centered0, 1
+16658, transcriptomewide, 10
+16659, transcriptome-wide0, 1
+16660, browserank, 1, 1
+16670, 'Participation0, 1
+16672, eventb, 10
+16675, cellml, 10
+16678, firstmover, 10
+16685, iPS1890, 1
+16687, libannotationsbml, 1, 1
+16688, phaseoffiring, 10
+16689, Phase-of-Firing0, 1
+16706, talairach, 10
+16708, positioninvariant, 10
+16709, 'breaking0, 1
+16710, position-invariant0, 1
+16713, artefactmediated, 10
+16715, Artefact-mediated0, 1
+16716, navigationrelated, 10
+16724, deliberationwithoutattention, 10
+16725, Deliberation-Without-Attention0, 1
+16738, prototypereferenced, 10
+16740, prototype-referenced0, 1
+16747, dbsnp, 1, 1
+16751, peekaboom, 1, 1
+16756, lowinput, 10
+16766, Frontoparietal0, 1
+16770, slowwave, 10
+16772, internetscale, 10
+16773, humanreviewed, 10
+16780, micrornabinding, 10
+16781, microRNA-binding0, 1
+16782, 5â²0, 1
+16783, 3â²0, 1
+16789, twentiethcentury, 10
+16794, Monoallelic0, 1
+16795, Autosomes0, 1
+16796, ultraconservation, 1, 1
+16799, Cis-Acting0, 1
+16803, Tegmental0, 1
+16804, celllike, 10
+16817, humanbased, 10
+16818, Human-Based0, 1
+16824, mirdisease, 10
+16825, mir2disease0, 1
+16830, mono-0, 1
+16831, tri-methylation0, 1
+16841, stressinducible, 10
+16846, tfcat, 1, 1
+16849, micrornaoffset, 10
+16850, microRNA-offset0, 1
+16851, promoterome, 1, 1
+16852, deepcage, 10
+16853, deepCAGE0, 1
+16854, basesubstitution, 10
+16855, deeprooting, 10
+16857, Base-Substitution0, 1
+16858, Deep-Rooting0, 1
+16860, haca, 10
+16861, snorna, 10
+16866, argonauteeifcmirna, 10
+16867, Argonaute/EIF2C-miRNA0, 1
+16881, codingindependent, 10
+16882, coding-independent0, 1
+16883, participantdriven, 10
+16884, Participant-Driven0, 1
+16887, line-10, 1
+16888, Retrotransposition0, 1
+16893, transregulation, 10
+16894, Cis-0, 1
+16895, Trans-Regulation0, 1
+16896, enhancerlike, 10
+16897, Enhancer-like0, 1
+16900, riboregulators, 1, 1
+16901, genemetabolic, 10
+16902, geneâmetabolic0, 1
+16905, sphingosinephosphate, 10
+16911, gostats, 10
+16912, GOstats0, 1
+16915, crosslaboratory, 10
+16916, cross-laboratory0, 1
+16922, agemap, 1, 1
+16923, micrornaorg, 10
+16924, microRNA.org0, 1
+16925, microrna-3730, 1
+16926, transregulatory, 10
+16927, trans-regulatory0, 1
+16928, pseudogenederived, 10
+16929, pseudogene-derived0, 1
+16930, geneenvironment, 10
+16940, expressionbased, 10
+16943, expressionâbased0, 1
+16945, wholetranscriptome, 10
+16946, mrna-seq0, 1
+16947, whole-transcriptome0, 1
+16951, mirz, 1, 1
+16954, 32UTRs0, 1
+16959, receptorpositive, 10
+16960, receptornegative, 10
+16964, mimirna, 1, 1
+16968, computermediated, 20
+16969, technologybased, 10
+16980, contactmap, 1, 1
+16982, informationsharing, 10
+16985, twoperson, 10
+16992, topicshop, 10
+16993, TopicShop0, 1
+16998, micromobilization, 10
+16999, Micromobilization0, 1
+17001, connectioncentric, 10
+17002, Connection-Centric0, 1
+17003, technopoly, 1, 1
+17006, leonardos, 10
+17012, hewlettpackard, 10
+17020, contextmediated, 10
+17022, context-mediated0, 1
+17025, socialbilty, 10
+17026, Socialbilty0, 1
+17048, selfassessments, 10
+17059, givealink, 1, 1
+17063, mindsa, 10
+17069, autotagging, 1, 1
+17070, sweetwiki, 1, 1
+17073, hyperpersonal, 10
+17075, Hyperpersonal0, 1
+17076, infotopia, 1, 1
+17078, awaremedia, 1, 1
+17082, ontowiki, 1, 1
+17096, Non-Users0, 1
+17098, peopletagging, 10
+17099, people-tagging0, 1
+17112, metcalfes, 10
+17115, teamscope, 10
+17116, TeamSCOPE0, 1
+17121, wikidashboard, 1, 1
+17129, xquisite, 10
+17130, x.qui.site0, 1
+17131, spartagus, 10
+17132, spartag.us0, 1
+17137, contextbased, 10
+17141, paxos, 1, 1
+17142, np-complete0, 1
+17144, patternmany, 10
+17145, Pattern/Many0, 1
+17156, Meta-Heuristic0, 1
+17162, mesord, 10
+17163, MesoRD0, 1
+17164, itembased, 20
+17166, ukkonen, 10
+17167, mccreight, 10
+17169, lineartime, 10
+17178, frequencies10, 1
+17199, timefrequency, 10
+17203, blocksorting, 10
+17205, block-sorting0, 1
+17206, rtrees, 10
+17207, r-trees0, 1
+17208, -Tree0, 1
+17210, xtree, 10
+17211, X-Tree0, 1
+17212, quickhull, 10
+17214, Quickhull0, 1
+17219, passiveaggressive, 10
+17221, semtag, 1, 1
+17224, pseudorandomness, 1, 1
+17226, churchturing, 10
+17230, Gossip-Based0, 1
+17233, orthologid, 1, 1
+17237, lyapunov, 10
+17241, wordNet0, 1
+17242, adaptivesupport, 10
+17243, Adaptive-Support0, 1
+17249, itng, 10
+17257, topn, 10
+17258, Item-Based0, 1
+17259, Top-N0, 1
+17263, linearthreshold, 10
+17264, linear-threshold0, 1
+17265, mincut, 10
+17267, agbnp, 1, 1
+17278, pssmbased, 10
+17279, PSSM-based0, 1
+17280, clusterbuster, 10
+17281, cluster-buster0, 1
+17284, cacheoblivious, 10
+17285, cache-oblivious0, 1
+17286, cismodule, 1, 1
+17290, mapreducemerge, 10
+17291, map-reduce-merge0, 1
+17292, columnstores, 10
+17293, rowstores, 10
+17294, column-stores0, 1
+17295, row-stores0, 1
+17297, twoqubit, 10
+17298, Two-Qubit0, 1
+17301, rpsph, 1, 1
+17307, technosavvy, 10
+17308, infosavvy, 10
+17311, info-savvy0, 1
+17313, locationaided, 10
+17315, locationâaided0, 1
+17318, publishsubscribe, 10
+17331, discretechoice, 10
+17332, Discrete-Choice0, 1
+17333, pubmatrix, 1, 1
+17334, medminer, 1, 1
+17335, cotraining, 10
+17336, Co-training0, 1
+17343, wmap, 10
+17350, usersubjective, 10
+17351, User-Subjective0, 1
+17356, graphcut, 1, 1
+17358, taskview, 1, 1
+17359, taskbased, 10
+17364, borrowedvirtualtime, 10
+17366, latencysensitive, 10
+17367, borrowed-virtual-time0, 1
+17413, chromatinimmunoprecipitation, 10
+17414, chromatin-immunoprecipitation0, 1
+17415, colloidosomes, 1, 1
+17432, gamebased, 10
+17436, continuoustime, 10
+17439, bioclimate, 1, 1
+17452, coolstreamingdonet, 10
+17453, coolstreaming/donet0, 1
+17457, oreganno, 1, 1
+17458, literaturederived, 10
+17459, literature-derived0, 1
+17471, haydenque, 10
+17473, Hayden/Que0, 1
+17474, milankovitch, 10
+17479, libx, 1, 1
+17488, instancebased, 10
+17491, conditionsa, 10
+17494, identificationcategorization, 10
+17495, identification-categorization0, 1
+17501, webpublishing, 10
+17502, Webpublishing0, 1
+17505, hippocampalparietal, 10
+17506, Hippocampal-Parietal0, 1
+17520, svmknn, 10
+17521, svm-knn0, 1
+17531, KobrA0, 1
+17532, QADA0, 1
+17533, newsjunkie, 1, 1
+17552, heterogeneitydiversity, 10
+17554, heterogeneity/diversity0, 1
+17558, cilk, 1, 1
+17566, kooperation, 10
+17567, computerbasierten, 1, 1
+17568, netzwerken, 10
+17570, Netzwerken0, 1
+17571, lawvere, 10
+17574, ontologywidget, 1, 1
+17579, ligandscout, 1, 1
+17581, proteinbound, 10
+17582, Pharmacophores0, 1
+17583, Protein-Bound0, 1
+17586, faulttolerance, 10
+17597, cellspecific, 10
+17598, Cell-Specific0, 1
+17606, proteinbilayer, 10
+17607, Protein-Bilayer0, 1
+17610, trecvid, 10
+17611, TRECVid0, 1
+17616, topigraphy, 1, 1
+17617, micrornaencoding, 10
+17618, microrna-encoding0, 1
+17620, hyperheuristics, 10
+17621, hyper-heuristics0, 1
+17622, biotroph, 1, 1
+17623, gridbatch, 1, 1
+17624, dataintensive, 10
+17634, ezh, 10
+17635, microRNA-1010, 1
+17641, argonautecontaining, 10
+17643, Argonaute-containing0, 1
+17644, pseudocounts, 1, 1
+17645, crossregulation, 1, 1
+17646, dgcr, 10
+17648, DGCR80, 1
+17659, ohnologs, 1, 1
+17660, internetics, 10
+17661, Internetics0, 1
