@@ -17,11 +17,13 @@ The necessaries files are under the folder `tagRecommendation/environments`.
 In order to import the environment run the command `conda env create -f tagrec_py35.yml`
 
 ## Install and Resource Download.
-<!-- In order to download the dataset and setting up the environment use the automated script `install.sh`.
-This script will perform the following actions: -->
+In order to download the dataset and setting up the environment use the automated script `install.sh`.
+This script will perform the following actions:
 
-- Download the [GloVe680b300d](http://nlp.stanford.edu/data/glove.840B.300d.zip) embeddings.
-- Import the conda environment.
+- Download the [GloVe680b300d](http://nlp.stanford.edu/data/glove.840B.300d.zip) embeddings in the folder `tagRecommendation/datasource/raw-data/glove/`.
+- Import the conda environment running the command `conda env create -f tagRecommendation/environments/tagrec_py35.yml`.
+
+##
 
 ## Project Structure
 
